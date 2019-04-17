@@ -1,2 +1,2 @@
 # web-calculator
-:1234::hash: A simple calculator made with React
+:1234: A simple calculator made with React
